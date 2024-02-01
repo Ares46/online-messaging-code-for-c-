@@ -1,0 +1,8 @@
+First make shore to upload this file on to your cloud server incase you dont have i have given the link to cloud service='https://www.resilio.com/platforms/desktop/'which is free and easy to use so you can communicate with peopl online 
+
+the main code is in fileName.cpp make shore that in the code you have you have change the file location accordingly
+
+Everything is mostly automatic 
+
+ 
+
